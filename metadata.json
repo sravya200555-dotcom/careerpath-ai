@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath AI",
+  "description": "LLM-Powered Career Roadmap Generator for students and beginners with visual timelines, skill gap analyses, project roadmaps, and career comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
